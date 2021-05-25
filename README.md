@@ -1,2 +1,2 @@
-# COVID-19-Chest-X-Rays-Classifiication-using-CNN
+# COVID-19-Chest-X-Rays-Classification-using-CNN
 #### This repository contains a Convolutional Neural Network which classifies whether a person is suffering from COVID-19 or not with the help of Chest X-rays. The Dataset used for Classification contains 453 images in the training set and 219 images in the test set. The accuracy achieved for the test set is 90.46% and for the training set is 93.15%. The Dataset used for Classification is taken from the following link https://www.kaggle.com/akhilkasare/covid19-chest-xray-detection 
